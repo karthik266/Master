@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name=" Dallas Test suite">
+	<test name="Login Page" preserve-odrder="true">
+		<classes>
+			<class name="dallas.Tc.Tc_Login_Page" />
+			<class name="dallas.Tc.Tc_Ataglance" />
+			<class name="dallas.Tc.Tc_peopleanddevices" />
+		</classes>
+	</test>
+
+
+</suite>
+

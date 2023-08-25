@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="LetcodeSuite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="letcode.Testcases.TcHomePage" />
+			<class name="letcode.Testcases.TcInputModule" />
+			<class name="letcode.Testcases.TcDropdownModule" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- LetcodeSuite -->
+
